@@ -1,0 +1,8 @@
+# Ignore temporary and extracted outputs
+/output_folder/
+/decoded_app/
+*.apk
+*.log
+node_modules/
+.DS_Store
+Thumbs.db
