@@ -8,3 +8,5 @@ node_modules/
 jadx/
 .DS_Store
 Thumbs.db
+*.idsig
+*.tmp
