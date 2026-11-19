@@ -1,8 +1,10 @@
 # Ignore temporary and extracted outputs
 /output_folder/
-/decoded_app/
+/decoded_*/
 *.apk
+*.zip
 *.log
 node_modules/
+jadx/
 .DS_Store
 Thumbs.db
